@@ -1,4 +1,4 @@
-baseurl         = "https://dreamy-ride-a6dfbe.netlify.app/"
+baseurl         = "https://dreamy-ride-a6dfbe.netlify.app/post"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
