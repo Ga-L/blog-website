@@ -16,9 +16,9 @@ paginate        = 6
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
+  twitterName = ""
   fbName = "gael.latouche"
-  githubName = "eueung"
+  githubName = "Ga-L"
 
   logo = "uploads/Viv-li-logo1.png"
   orgName = "Viv li!"
@@ -59,8 +59,14 @@ paginate        = 6
   url = "/categories/partaz/"
   weight = 99 
 
-[[menu.main]]
+  [[menu.main]]
   name = "Podcast"
   url = "https://www.youtube.com/user/PowerfulJRE"
+  weight = 95
+
+
+[[menu.main]]
+  name = "Education"
+  url = "/categories/education/"
   weight = 95
 
