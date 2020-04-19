@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://dreamy-ride-a6dfbe.netlify.app/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -41,7 +41,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Main"
-  url = "/"
+  url = "/post"
   weight = 200
 
 [[menu.main]]
