@@ -1,0 +1,66 @@
+baseurl         = "https://vivli.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Viv li!"
+  subtitle    = "Pran enn letan pu apresie sanzman!"
+
+  cover       = "uploads/header.JPG"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faketryghost"
+  fbName = "gael.latouche"
+  githubName = "eueung"
+
+  logo = "uploads/Viv-li-logo1.png"
+  orgName = "Viv li!"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Ga"
+  authorAvatar = "uploads/profile-pic.jpg"
+  authorLocation = "Mauritius"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Enn pasione"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/post"
+  weight = 200
+
+[[menu.main]]
+  name = "Articles"
+  url = "/tags/articles/"
+  weight = 100
+
+[[menu.main]]
+  name = "Art"
+  url = "/categories/art/"
+  weight = 99
+
+ [[menu.main]]
+  name = "Partaz"
+  url = "/categories/partaz/"
+  weight = 99 
+
+[[menu.main]]
+  name = "Podcast"
+  url = "https://www.youtube.com/user/PowerfulJRE"
+  weight = 95
+
