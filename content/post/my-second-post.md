@@ -3,7 +3,7 @@ title: "Vagabondage cosmique"
 date: 2020-04-16T17:40:40+04:00
 draft: false
 image: "uploads/person-sky-silhouette-night-32237.jpg"
-tags: ["articles"]
+tags: ["articles", "partaz"]
 categories: ["art", "partaz"]
 ---
 

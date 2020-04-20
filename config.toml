@@ -64,6 +64,10 @@ paginate        = 6
   url = "https://www.youtube.com/user/PowerfulJRE"
   weight = 95
 
+[[menu.main]]
+  name = "Social"
+  url = "/categories/social/"
+  weight = 95
 
 [[menu.main]]
   name = "Education"

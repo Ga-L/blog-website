@@ -3,7 +3,7 @@ title: "Matematik? Ok sa!"
 date: 2020-04-19T14:55:03+04:00
 draft: false
 image: "uploads/maths.jpg"
-tags: ["articles"]
+tags: ["articles", "education"]
 categories: ["education", "partaz"]
 nomenu: "main"
 ---
