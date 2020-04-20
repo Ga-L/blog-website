@@ -7,4 +7,4 @@ tags: ["articles", "art", "social"]
 categories: ["art", "partaz", "social"]
 ---
 
-# Linley Morvan: l'art avec des valeurs ajoutés !
+# Linley Morvan: l'art avec des valeurs ajoutées !
